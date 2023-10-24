@@ -9,7 +9,7 @@ module.exports = {
         "lato": ['Lato', 'sans-serif']
       },
       colors: {
-        bgColor: "#F2F3F5",
+        bgColor: "#FFCOCB",
       }
     },
   },
